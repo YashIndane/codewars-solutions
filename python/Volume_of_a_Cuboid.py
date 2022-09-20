@@ -1,0 +1,3 @@
+def getVolumeOfCubiod(l, b ,h):
+    # Code goes here...
+    return l*b*h
